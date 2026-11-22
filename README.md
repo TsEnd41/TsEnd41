@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+Formacion;Java+%7C+TypeScript+%7C+Next.js+%7C+Python;Bases+de+Datos+Relacionales+con+PostgreSQL;Disponible+para+Etapa+Productiva+(Practicas)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack;Java+%7C+TypeScript+%7C+Next.js+%7C+Python;Bases+de+Datos+Relacionales+con+PostgreSQL;Disponible+para+Etapa+Productiva+(Practicas)" alt="Typing SVG" />
 </p>
 
 ### 👋 ¡Hola! Soy Santiago Girón
