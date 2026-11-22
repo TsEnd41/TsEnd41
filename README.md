@@ -1,24 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santiago%20Girón%20González&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Análisis%20y%20Desarrollo%20de%20Software%20(ADSO)%20|%20SENA&descAlignY=52&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santiago%20Giron%20Gonzalez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Analisis%20y%20Desarrollo%20de%20Software%20(ADSO)%20|%20SENA&descAlignY=52&descSize=15" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/TsEnd41">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+Formación;Java+%7C+TypeScript+%7C+Next.js+%7C+Python;Bases+de+Datos+Relacionales+con+PostgreSQL;Disponible+para+Etapa+Productiva+(Prácticas)" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+Formacion;Java+%7C+TypeScript+%7C+Next.js+%7C+Python;Bases+de+Datos+Relacionales+con+PostgreSQL;Disponible+para+Etapa+Productiva+(Practicas)" alt="Typing SVG" />
+</p>
 
 ### 👋 ¡Hola! Soy Santiago Girón
 
-Estudiante de **Análisis y Desarrollo de Software (ADSO)** enfocado en el desarrollo web Full Stack y el diseño de bases de datos relacionales.
-<!-- Separador RGB Animado -->
+Estudiante de **Análisis y Desarrollo de Software (ADSO)** enfocado en el desarrollo web Full Stack y el diseño de bases de datos relacionales. 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
 
 **Lenguajes de Programación**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,9 +40,7 @@ Estudiante de **Análisis y Desarrollo de Software (ADSO)** enfocado en el desar
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-</div>
-
-
+<!-- Separador RGB Animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📂 Proyectos Destacados
@@ -58,20 +50,22 @@ Estudiante de **Análisis y Desarrollo de Software (ADSO)** enfocado en el desar
 * **Sistema de Gestión Tienda Tecnología:** Diseño de base de datos relacional en **PostgreSQL** con tablas normalizadas, índices, procedimientos almacenados (`registrar_cliente`), triggers de validación de stock y funciones de cálculo de IVA (`calcular_iva`).
 * **Infraestructura de Red & App de Nómina:** Implementación de servidores **DHCP, DNS y HTTP** en Cisco Packet Tracer integrados con una aplicación web de cálculo de nómina desarrollada en **HTML, CSS y JavaScript**.
 
-<!-- Separador RGB Animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ⚡ Actividad en Tiempo Real
+### 🕹️ Zona Arcade: Pac-Man Dev
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsEnd41&bg_color=0d1117&color=00f7ff&line=ff007f&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📫 Contacto Directo
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-304%20485%203109-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573044853109)
+![Ubicación](https://img.shields.io/badge/Ubicacion-Bello%2C%20Antioquia%2C%20Colombia-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Formación](https://img.shields.io/badge/Formacion-SENA%20Complejo%20Sur%20Calatrava-39A900?style=for-the-badge&logo=academia&logoColor=white)
+
 <div align="center">
-  <a href="https://wa.me/573044853109" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-304%20485%203109-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
