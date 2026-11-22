@@ -47,4 +47,4 @@ Estudiante de **Análisis y Desarrollo de Software (ADSO)** enfocado en el desar
 
 ### 📫 Contacto
 * **Ubicación:** Bello, Antioquia, Colombia
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
+* **Numero De Contacto:**  +57 3044853109
